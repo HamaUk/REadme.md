@@ -88,19 +88,6 @@ ghost.execute()
 
 <div align="center">
 
-## 🧠 `Red Team Mindset`
-
-| Phase | Technique | Status |
-|---|---|---|
-| 🔍 Recon | OSINT, Nmap, Shodan | `ACTIVE` |
-| 💉 Initial Access | Phishing, Exploit Dev | `ACTIVE` |
-| 🚀 Execution | Custom Payloads, LOLBins | `ACTIVE` |
-| 🕵️ Persistence | Backdoors, Scheduled Tasks | `ACTIVE` |
-| 🌀 Lateral Movement | Pass-the-Hash, Pivoting | `ACTIVE` |
-| 👑 Exfiltration | Steganography, DNS Tunneling | `ACTIVE` |
-
-</div>
-
 ---
 
 <div align="center">
