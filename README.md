@@ -59,31 +59,6 @@
 
 <div align="center">
 
-## 🎯 `Current Ops`
-
-</div>
-
-```python
-class RedTeamOperator:
-    def __init__(self):
-        self.name        = "OpTiC GhOsT"
-        self.current_ops = [
-            "🔴 Adversary Simulation & C2 Infrastructure",
-            "🕷️  Web App Penetration Testing",
-            "🐍  Building Custom Python Exploit Tools",
-            "🌐  OSINT & Reconnaissance Automation",
-            "💣  Malware Development & AV Evasion Research",
-        ]
-        self.learning    = ["Active Directory Attacks", "Cloud Red Teaming", "Rust for Malware Dev"]
-        self.motto       = "The quieter you become, the more you can hear. 🩸"
-
-    def execute(self):
-        return "sudo ./pwn_everything.sh --silent --ghost-mode"
-
-ghost = RedTeamOperator()
-ghost.execute()
-```
-
 ---
 
 <div align="center">
